@@ -13,6 +13,9 @@ In this project, Covid-19 detection plays an important role in pandemic control.
 ## Running
 It is highly recommended to run notebooks in Google Colab, and change runtime to "GPU" support to accelerate computations.
 
+## Results
+ [Summary Metrics Classifier & Experimentation --> Google Spreadsheet](https://docs.google.com/spreadsheets/d/1A2CiNfrqSx1nBaSVUo3QX5sdAAgRBElU3LkmvyrovjU/edit?usp=sharing)
+
 ## About authors
 **Authors**       
 
