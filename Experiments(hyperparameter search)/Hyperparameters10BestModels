@@ -1,0 +1,74 @@
+Results summary
+Results in /tmp/logs/DLWSProject
+Showing 10 best trials
+Objective(name='val_accuracy', direction='max')
+E1.Trial summary
+	Hyperparameters:
+	units: 64
+	activation: tanh
+	rate: 0.2
+	l2: 0.0
+	Score: 0.9981651306152344
+E2.Trial summary
+	Hyperparameters:
+	units: 64
+	activation: relu
+	rate: 0.2
+	l2: 0.0
+	Score: 0.9981651306152344
+E3.Trial summary
+	Hyperparameters:
+	units: 128
+	activation: relu
+	rate: 0.5
+	l2: 0.0
+	Score: 0.9981651306152344
+E4.Trial summary
+	Hyperparameters:
+	units: 64
+	activation: tanh
+	rate: 0.5
+	l2: 0.0
+	Score: 0.9981651306152344
+E5.Trial summary
+	Hyperparameters:
+	units: 64
+	activation: relu
+	rate: 0.4
+	l2: 0.0
+	Score: 0.9944953918457031
+E6.Trial summary
+	Hyperparameters:
+	units: 64
+	activation: relu
+	rate: 0.8
+	l2: 0.0
+	Score: 0.9908257126808167
+E7.Trial summary
+	Hyperparameters:
+	units: 64
+	activation: tanh
+	rate: 0.4
+	l2: 0.0
+	Score: 0.988990843296051
+E8.Trial summary
+	Hyperparameters:
+	units: 128
+	activation: relu
+	rate: 0.4
+	l2: 0.0
+	Score: 0.988990843296051
+E9.Trial summary
+	Hyperparameters:
+	units: 128
+	activation: tanh
+	rate: 0.8
+	l2: 0.0
+	Score: 0.9834862351417542
+E10.Trial summary
+	Hyperparameters:
+	units: 128
+	activation: tanh
+	rate: 0.4
+	l2: 0.2
+	Score: 0.9724770784378052
