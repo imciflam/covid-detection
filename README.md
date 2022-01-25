@@ -10,6 +10,9 @@ In this project, Covid-19 detection plays an important role in pandemic control.
 
 [2] https://www.kaggle.com/ruchi798/covid19-pulmonary-abnormalities
 
+## Running
+It is highly recommended to run notebooks in Google Colab, and change runtime to "GPU" support to accelerate computations.
+
 ## About authors
 **Authors**       
 
